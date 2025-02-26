@@ -94,6 +94,10 @@ oc patch ingresscontroller.operator default \
 
 ## Reiniciar nodos
 
+Desde la consola de ibmcloud reiniciar los workeres del cluster.
+![image](https://github.com/user-attachments/assets/a959f5c2-de74-4c6e-bc58-63656c322ae3)
+
+
 ## Documentacion adicional
 
 - [Documentacion cambio de cominio con cis](https://cloud.ibm.com/docs/openshift?topic=openshift-ingress-domains&interface=ui)
