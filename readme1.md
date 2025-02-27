@@ -24,7 +24,7 @@
 ## Ceder gestión del dominio a CIS
 
 1. Agregar dominio.
-   <hr>
+
    ![image](https://github.com/user-attachments/assets/be3b3ed9-2554-4aaa-8405-699a7722249b)  
 3. Reemplazar registros NS por los generados por CIS en el gestor del dominio.  
    ![image](https://github.com/user-attachments/assets/85d49608-674b-4333-be65-4e389b42f081)  
